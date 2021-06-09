@@ -2,10 +2,7 @@
 title: Desktop Apollo
 type: page
 permalink: /older-apollo/
-
 ---
-
-<meta http-equiv="refresh" content="1;url=http://genomearchitect.readthedocs.io/" />
 
 ## Looking for Desktop Apollo?
 
@@ -13,9 +10,7 @@ If your team is currently performing manual annotations using the desktop versio
 
 All the functionality you came to expect from the desktop version of Apollo and new annotation functions are now available on Apollo. Give it a try at our [Public Demo](../public-demo/index.md), built with the genome of the honey bee (<i>Apis mellifera</i>).
 
---- 
-
-
+---
 
 <h2>
 <a href="http://genomearchitect.github.io">Go back to current Apollo version &rarr;</a>
@@ -24,8 +19,8 @@ All the functionality you came to expect from the desktop version of Apollo and 
 <br>
 <h4>Version 1.11.8 (February, 2013)</h4>
 
-
 <font size="3"><b>Available Installers</b></font><br>
+
 <table border="1" cellpadding="3" cellspacing="10">
 <tr>
 <td>&nbsp;</td>
